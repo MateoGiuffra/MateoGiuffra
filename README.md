@@ -1,4 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋🏼 ¡Bienvenido a mi GitHub!
+
+### Sobre mí
+
+- 🎓 **Estudiante de Licenciatura en Informática & Tecnicatura en Programación** en constante aprendizaje.
+- 🤖 **Autodidacta** con pasión por el **desarrollo backend** y la exploración de nuevas tecnologías.
+- 💼 **Curioso** y siempre en busca de nuevos desafíos para seguir creciendo.
+
+🌐 **Conoce más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/tu-perfil/).**
+
+---
+
 
 <!--
 **MateoGiuffra/MateoGiuffra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
