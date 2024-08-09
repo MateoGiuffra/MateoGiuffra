@@ -3,10 +3,14 @@
 ### Sobre mí
 
 - 🎓 **Estudiante de Licenciatura en Informática & Tecnicatura en Programación** en constante aprendizaje.
-- 🤖 **Autodidacta** con pasión por el **desarrollo backend** y la exploración de nuevas tecnologías.
+- 🤖 **Autodidacta** con pasión por el **desarrollo fullstack** y la exploración de nuevas tecnologías.
 - 💼 **Curioso** y siempre en busca de nuevos desafíos para seguir creciendo.
 
 🌐 **Conoce más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/mateo-giuffra-023682289/).**
+
+### Tecnologias que manejo: 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ---
 
