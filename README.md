@@ -18,6 +18,9 @@
 
 ### CI [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
+
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGiuffra&show_icons=true&theme=transparent)
+
 ---
 
 
