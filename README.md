@@ -3,17 +3,16 @@
 ### I'm a Creative Developer  
 
 
-- 👨‍🎓 University student at [UNQUI](https://www.unq.edu.ar/)  
+- 👨‍🎓 University student at [UNQUI](https://www.unq.edu.ar/) (_currently in my third year_)
 - 🍃 My primary backend stack consists of Java and Spring Framework. 
 - 📚 Currently learning React, JavaScript, HTML and CSS on my own.
 - 🎯 **Goals for 2025:**  
-  - Learn Astro and Tailwind.  
-  - Build more Python projects.  
-  - Deepen my knowledge of the Spring framework in Java.  
+  - Complete my CSS and React learning to start Astro and Tailwind next.  
+  - Deepen my knowledge of the Spring framework in Java.
+  - Build more Python projects.
+  - Work on web development projects.   
   - Explore Go and Rust.  
-  - Work on web development projects.  
 - 🖍 I enjoy drawing!  
-
 
 #### Connect with me
 
@@ -32,7 +31,6 @@
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoGiuffra&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
 </p>
-
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
@@ -55,7 +53,8 @@
 <h4>IDEs</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/IntelliJ_IDEA-1c1c1c?&style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/VS_Code-1c1c1c?&style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-1c1c1c?logo=visual-studio-code&logoColor=fff&style=flat-square" />
+  
 </p>
 
 <br/><br/>
@@ -67,8 +66,6 @@
   <img align="left" src="https://img.shields.io/badge/MongoDB-1c1c1c?&style=flat-square&logo=mongodb&logoColor=47A248" />
   <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=firebase&logoColor=FFCA28" />
 </p>
-
-<br/><br/>
 
 <br/><br/>
 
