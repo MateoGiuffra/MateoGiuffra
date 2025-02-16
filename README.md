@@ -15,12 +15,13 @@
 - 🖍 I enjoy drawing!  
 
 
-### Connect with me
+#### Connect with me
 
 <a href="https://www.linkedin.com/in/mateo-giuffra-023682289/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:matteogiuffrah40@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 <br/><br/>
+
 ---
 
 ### What I work with
