@@ -1,29 +1,83 @@
-# ¡Hola! 👋🏼 ¡Bienvenido a mi GitHub!
+## Hi, I'm Mateo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Sobre mí
-
-- 🎓 **Estudiante de Licenciatura en Informática & Tecnicatura en Programación** en constante aprendizaje.
-- 🤖 **Autodidacta** con pasión por el **desarrollo backend** y la exploración de nuevas tecnologías.
-- 💼 **Curioso** y siempre en busca de nuevos desafíos para seguir creciendo.
-
-🌐 **Conoce más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/mateo-giuffra-023682289/).**
-
-### Tecnologias que manejo:                               
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?logo=python&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-%23B5B5B5.svg?logo=flask&logoColor=white)](#)
+### I'm a Creative Developer  
 
 
-### IDEs:   
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+- 👨‍🎓 University student at [UNQUI](https://www.unq.edu.ar/)  
+- 🍃 My primary backend stack consists of Java and Spring Framework. 
+- 📚 Currently learning React, JavaScript, HTML and CSS on my own.
+- 🎯 **Goals for 2025:**  
+  - Learn Astro and Tailwind.  
+  - Build more Python projects.  
+  - Deepen my knowledge of the Spring framework in Java.  
+  - Explore Go and Rust.  
+  - Work on web development projects.  
+- 🖍 I enjoy drawing!  
 
 
-### Base de datos: 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)	[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+### Connect with me
 
+<a href="https://www.linkedin.com/in/mateo-giuffra-023682289/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:matteogiuffrah40@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
-### CI: 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-
-[![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGiuffra&theme=transparent)](https://github.com/MateoGiuffra/github-readme-stats)
+<br/><br/>
 ---
+
+### What I work with
+
+<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
+
+<h4>Languages</h4>
+<p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoGiuffra&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+</p>
+
+<p>
+  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
+  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
+  <img align="left" src="https://img.shields.io/badge/Java-1c1c1c?style=flat-square&logo=openjdk&logoColor=white" />
+  <img align="left" src="https://shields.io/badge/HTML-1c1c1c?style=flat-square&logo=html5&logoColor=f06529" />
+  <img align="left" src="https://img.shields.io/badge/CSS-1c1c1c?&style=flat-square&logo=css3&logoColor=239120" />
+</p>
+
+<br/><br/>
+
+<h4>UI Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Spring-1c1c1c?&style=flat-square&logo=spring&logoColor=6DB33F" />
+  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&style=flat-square&logo=flask&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+
+<br/><br/>
+
+<h4>IDEs</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/IntelliJ_IDEA-1c1c1c?&style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/VS_Code-1c1c1c?&style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+</p>
+
+<br/><br/>
+
+<h4>Databases</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/MySQL-1c1c1c?&style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img align="left" src="https://img.shields.io/badge/Neo4j-1c1c1c?&style=flat-square&logo=neo4j&logoColor=008CC1" />
+  <img align="left" src="https://img.shields.io/badge/MongoDB-1c1c1c?&style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=firebase&logoColor=FFCA28" />
+</p>
+
+<br/><br/>
+
+<br/><br/>
+
+---
+
+### Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateoGiuffra&theme=holi-theme)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateoGiuffra&count_private=true&show_icons=true&theme=github_dark)
+
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=MateoGiuffra&theme=github&custom_title=Activity)
+
