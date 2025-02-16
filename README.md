@@ -76,6 +76,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateoGiuffra&theme=holi-theme)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateoGiuffra&count_private=true&show_icons=true&theme=github_dark)
-
-![Github Activity](https://activity-graph.herokuapp.com/graph?username=MateoGiuffra&theme=github&custom_title=Activity)
-
