@@ -33,6 +33,7 @@
 </p>
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
+  <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
   <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
   <img align="left" src="https://img.shields.io/badge/Java-1c1c1c?style=flat-square&logo=openjdk&logoColor=white" />
   <img align="left" src="https://shields.io/badge/HTML-1c1c1c?style=flat-square&logo=html5&logoColor=f06529" />
@@ -41,19 +42,21 @@
 
 <br/><br/>
 
-<h4>UI Libraries & Frameworks</h4>
+<h4>Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/Spring-1c1c1c?&style=flat-square&logo=spring&logoColor=6DB33F" />
   <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&style=flat-square&logo=flask&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=react&logoColor=61DAFB" />
+  <img align="left" src="https://img.shields.io/badge/next.js-1c1c1c?&style=flat-square&logo=nextdotjs&logoColor=white)" />
+  <img align="left" src="https://img.shields.io/badge/Tailwind_CSS-1c1c1c?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
 </p>
 
 <br/><br/>
 
 <h4>IDEs</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/IntelliJ_IDEA-1c1c1c?&style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-1c1c1c?logo=visual-studio-code&logoColor=fff&style=flat-square" />
+  <img align="left" src="https://img.shields.io/badge/IntelliJ_IDEA-black?&style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=flat-square&logo=visualstudiocode&logoColor=fff&style=plastic" />
   
 </p>
 
@@ -62,6 +65,7 @@
 <h4>Databases</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/MySQL-1c1c1c?&style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img align="left" src="https://img.shields.io/badge/postgresql-1c1c1c?&style=flat-square&logo=postgresql&logoColor=4479A1" />
   <img align="left" src="https://img.shields.io/badge/Neo4j-1c1c1c?&style=flat-square&logo=neo4j&logoColor=008CC1" />
   <img align="left" src="https://img.shields.io/badge/MongoDB-1c1c1c?&style=flat-square&logo=mongodb&logoColor=47A248" />
   <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=firebase&logoColor=FFCA28" />
