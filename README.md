@@ -96,5 +96,9 @@
 | **🎯** | Pending | Goal for the current cycle. |
 
 </div>
+
+<div/>
 <a href="#begin" style="font-size: 0.9em;">Come back to begin</a>
+<div/>
+  
 ---
