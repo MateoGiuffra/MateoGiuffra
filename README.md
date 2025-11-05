@@ -2,16 +2,19 @@
 
 ### I'm a Creative Developer  
 
+**State Conventions:**
+* ✔ = Goal completed.
+* 🎯 = Pending goal for the current cycle.
 
 - 👨‍🎓 University student at [UNQUI](https://www.unq.edu.ar/) (_currently in my third year_)
 - 🍃 My primary backend stack consists of Java and Spring Framework. 
-- 📚 Currently learning React, JavaScript, HTML and CSS on my own.
+- 📚 Currently learning React, JavaScript, HTML and CSS on my own.  ✔ 
 - 🎯 **Goals for 2025:**  
-  - Complete my CSS and React learning to start Astro and Tailwind next.  
-  - Deepen my knowledge of the Spring framework in Java.
-  - Build more Python projects.
-  - Work on web development projects.   
-  - Explore Go and Rust.  
+  - Complete my CSS and React learning to start Astro and Tailwind next. ✔
+  - Deepen my knowledge of the Spring framework in Java. ✔
+  - Build more Python projects. ✔
+  - Work on web development projects.  ✔ 
+  - Explore Go and Rust. 🎯
 - 🖍 I enjoy drawing!  
 
 #### Connect with me
