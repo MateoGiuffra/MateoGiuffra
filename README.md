@@ -4,9 +4,7 @@
 <div id="begin"></div>
 <a href="#emojis-meaning" style="font-size: 0.9em;">(emojis meaning)</a>
 
-**State Conventions:**
-* ✔ = Goal completed.
-* 🎯 = Pending goal for the current cycle.
+<br/>
 
 - 👨‍🎓 University student at [UNQUI](https://www.unq.edu.ar/) (_currently in my third year_)
 - 🍃 My primary backend stack consists of Java and Spring Framework. 
@@ -88,7 +86,7 @@
 
 <div id="emojis-meaning">
 
-#### **State Conventions (Leyenda):**
+#### **State Conventions :**
 
 | Símbolo | Estado | Significado |
 | :---: | :---: | :--- |
