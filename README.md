@@ -1,6 +1,8 @@
 ## Hi, I'm Mateo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Creative Developer  
+<div id="begin"></div>
+<a href="#emojis-meaning" style="font-size: 0.9em;">(emojis meaning)</a>
 
 **State Conventions:**
 * ✔ = Goal completed.
@@ -81,3 +83,18 @@
 ### Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateoGiuffra&count_private=true&show_icons=true&theme=github_dark)
+
+---
+
+<div id="emojis-meaning">
+
+#### **State Conventions (Leyenda):**
+
+| Símbolo | Estado | Significado |
+| :---: | :---: | :--- |
+| **✔** | Completed | Goal achieved. |
+| **🎯** | Pending | Goal for the current cycle. |
+
+</div>
+<a href="#begin" style="font-size: 0.9em;">Come back to begin</a>
+---
